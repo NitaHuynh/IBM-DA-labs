@@ -23,7 +23,6 @@ It will continue to evolve with more advanced projects and Kaggle notebooks.
 
 ```bash
 IBM-DA-Labs/
-├── Python_Basics/               # Intro to Python and data types
 ├── Data_Wrangling/              # Working with Pandas and data cleaning
 ├── SQL_for_Data/                # SQL queries with DB2 and MySQL
 ├── Excel/                       # Excel data analysis labs
