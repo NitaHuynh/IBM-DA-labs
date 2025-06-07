@@ -26,7 +26,7 @@ IBM-DA-Labs/
 ├── Capstone_Project/            # Final project labs (when completed)
 └── README.md
 
-💡 Notes
+**##💡 Notes**
 This repo is part of my learning journey to become a top 1% Data Analyst on Upwork and freelance in data analysis, visualization, and model building.
 It will continue to evolve with more advanced projects and Kaggle notebooks.
 
