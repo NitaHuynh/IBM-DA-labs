@@ -13,6 +13,12 @@ This repository contains all the hands-on labs and practice notebooks completed 
 - Model evaluation using MSE and R²
 - Setting up Jupyter Notebooks and GitHub workflow
 
+## 💡 Notes
+This repo is part of my learning journey to become a top 1% Data Analyst on Upwork and freelance in data analysis, visualization, and model building.
+It will continue to evolve with more advanced projects and Kaggle notebooks.
+
+🛠️ Feel free to explore, fork, or suggest improvements. I'm always learning!
+
 ## 📂 Folder Structure
 
 ```bash
@@ -25,9 +31,3 @@ IBM-DA-Labs/
 ├── Model_Development/           # Linear, Multiple, and Polynomial Regression
 ├── Capstone_Project/            # Final project labs (when completed)
 └── README.md
-
-**##💡 Notes**
-This repo is part of my learning journey to become a top 1% Data Analyst on Upwork and freelance in data analysis, visualization, and model building.
-It will continue to evolve with more advanced projects and Kaggle notebooks.
-
-🛠️ Feel free to explore, fork, or suggest improvements. I'm always learning!
