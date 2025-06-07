@@ -25,7 +25,6 @@ It will continue to evolve with more advanced projects and Kaggle notebooks.
 IBM-DA-Labs/
 ├── Data_Wrangling/              # Working with Pandas and data cleaning
 ├── SQL_for_Data/                # SQL queries with DB2 and MySQL
-├── Excel/                       # Excel data analysis labs
 ├── Data_Visualization/          # Matplotlib, Seaborn, Dashboards
 ├── Model_Development/           # Linear, Multiple, and Polynomial Regression
 ├── Capstone_Project/            # Final project labs (when completed)
