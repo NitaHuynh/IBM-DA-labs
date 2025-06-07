@@ -15,21 +15,21 @@ CREATE TABLE customers (
   email VARCHAR(100)
 );
 ```
-## Alter Table
+### Alter Table
 ```sql
 ALTER TABLE customers ADD phone VARCHAR(15);
 ## Drop Table
 ```
 ```sql
-## DROP TABLE customers;
+DROP TABLE customers;
 ```
-# ✏️ DML (Data Manipulation Language)
-## Insert Data
+## ✏️ DML (Data Manipulation Language)
+### Insert Data
 ```sql
 INSERT INTO customers (id, name, email)
 VALUES (1, 'Alice', 'alice@example.com');
 ```
-## Update Data
+### Update Data
 ```sql
 UPDATE customers
 SET email = 'new_email@example.com'
