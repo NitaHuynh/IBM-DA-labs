@@ -9,6 +9,7 @@ Each app uses an airline dataset to demonstrate various types of interactive cha
 - `dash_bar_chart_by_state.py`: Bar chart showing total flights to each U.S. destination state for a selected year.
 - `dash_line_avg_delay_by_month.py`: Line chart showing average arrival delay per month in a selected year.
 - `dash_5_ line_delay_by_airline.py`: 5 line charts displaying the average arrival delay per month by airline, broken down by five different causes: Carrier, Weather, NAS, Security, and Late Aircraft.
+- `dash_wildfire_dashboard.py` : Pie and bar charts showing wildfire metrics (estimated fire area and pixel count) by region and year in Australia.
 
 
 ## How to Run
