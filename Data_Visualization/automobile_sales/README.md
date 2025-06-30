@@ -30,22 +30,3 @@ This folder contains a data visualization lab focused on analyzing automobile sa
 ## 🗂️ Dataset
 
 The dataset `historical_automobile_sales.csv` includes sales data, economic indicators (GDP, unemployment), and vehicle attributes across multiple years.
-
----
-
-## 🗺️ Note on Map
-
-The interactive map is saved as a separate HTML file. To view the map:
-
-👉 [Click here to open the map](./automobile_sales_map.html)
-
----
-
-# 📝 Phân tích dữ liệu doanh số ô tô trong thời kỳ suy thoái
-
-Thư mục này chứa bài lab trực quan hóa dữ liệu về doanh số bán ô tô trong các giai đoạn suy thoái và bình thường.
-
-## Bao gồm:
-
-- Biểu đồ đường, bong bóng, tròn, phân tán
-- Bản đồ tương tác hiển thị khu vực có doanh số cao
